@@ -1,6 +1,6 @@
 #!/bin/bash
 
 # Version: 1.0.0
-# Author: Zhang Chongkun
+# Author: ZHANG CHONGKUN
 # Modify Date: 2017/04/20
 # Usage: This is a test script
